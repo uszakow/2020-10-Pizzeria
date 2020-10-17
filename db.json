@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jan",
+            "surname": "Kowalski",
+            "email": "jan@test.pl",
+            "password": "123",
+            "role": "client",
+            "order": []
+        },
+        {
+            "id": 2,
+            "name": "Piotr",
+            "surname": "Nowak",
+            "email": "piotr.test@gmail.com",
+            "password": "q",
+            "role": "client",
+            "order": []
+        },
+        {
+            "id": 3,
+            "name": "Adam",
+            "surname": "Iksiński",
+            "email": "adameksiński@gmail.com",
+            "password": "qwe",
+            "role": "client",
+            "order": []
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "surname": "Błońska",
+            "email": "kwiatka@onet.pl",
+            "password": "qaz",
+            "role": "admin"
+        },
+        {
+            "id": 5,
+            "name": "Krystyna",
+            "surname": "Wąs",
+            "email": "krysia@test.pl",
+            "password": "*76",
+            "role": "client",
+            "order": []
+        }
+    ],
+    "pizza": [
+        {
+            "id": 1,
+            "title": "Cztery sery",
+            "img": "4 cheese.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Z bekonem",
+            "img": "becon.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Cesarska",
+            "img": "caesar.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Z kurczakiem",
+            "img": "chicken.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Diablo",
+            "img": "diablo.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Margaryta",
+            "img": "margarita.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mięsna",
+            "img": "meat.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Z łososiem",
+            "img": "salmon.png"
+        },
+        {
+            "id": 9,
+            "title": "Kiełbaski z serem",
+            "img": "sausages in cheese.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Z owocami morza",
+            "img": "seafood.png"
+        }
+    ]
+}
